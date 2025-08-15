@@ -22,4 +22,5 @@ Perfect for quick study, revision, and reference.
 
 ---
 
-<img src="CC.png" alt="Preview" width="600">
+<img src="CC.jpeg" alt="Cloud Computing" width="600">
+
