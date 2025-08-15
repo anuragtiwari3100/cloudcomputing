@@ -22,4 +22,4 @@ Perfect for quick study, revision, and reference.
 
 ---
 
-<img src="cc" alt="Preview" width="600">
+<img src="CC.png" alt="Preview" width="600">
